@@ -3,6 +3,8 @@
 ## Objective
 The objective of the analysis is to predict the Permanent Magnet surface temperature representing the rotor temperature of the electric motor when running, based on the provided set of other attributes 
 
+
+
 ## Dataset:
 https://drive.google.com/drive/folders/1ce3hnCmFzPJYE6aBxNJKIbKBUBUjmfuo
 
